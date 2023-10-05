@@ -3,7 +3,7 @@
 First I try to use the command with no arguments.There is no change.
 ![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/cd1.jpeg)
 
-Second I try to use the command with a path to a directory as an argument.The current dircetion is changed,I use cd lecture1,so I get in the directory lecture1
+Second I try to use the command with a path to a directory as an argument.The current dircetion is changed,I use cd lecture1,so I get in the directory lecture1.
 
 ![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/cd2.jpeg)
 
@@ -26,6 +26,7 @@ Third I try to use the command with a path to a file as an argument.It shows the
 ![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/ls3.jpeg)
 
 3.For cat
+
 First I try to use the cat command with no arguments.After using ls command,it shows nothing and I need use control+c to quit to contiune to use command.
 
 ![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/cat1.jpeg)
