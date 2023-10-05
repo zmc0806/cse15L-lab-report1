@@ -1,7 +1,7 @@
 1.For cd
 
 First I try to use the command with no arguments.There is no change.
-![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/cd1.jpeg)
+![image](https://github.com/zmc0806/cse15L-lab-report1/blob/6ebc42d81db0794a38a4d9ab8829878b4ef2debe/cd1.jpeg)
 
 Second I try to use the command with a path to a directory as an argument.The current dircetion is changed,I use cd lecture1,so I get in the directory lecture1.
 
