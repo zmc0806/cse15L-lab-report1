@@ -17,13 +17,28 @@ First I try to use the command with no arguments.After using ls command,it shows
 
 ![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/ls1.jpeg)
 
-Second I try to use the command with a path to a directory as an argument.it shows the file name in this directory.Here I use ls lecture1,so it shows the file which under lecture1
+Second I try to use the command with a path to a directory as an argument.It shows the file name in this directory.Here I use ls lecture1,so it shows the file name which under lecture1.
 
 ![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/ls2.jpeg)
 
-Third I try to use the command with a path to a file as an argument.it shows the names of this file,I use Hello.java,so it output Hello.java.
+Third I try to use the command with a path to a file as an argument.It shows the names of this file,I use Hello.java,so it output Hello.java.
 
 ![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/ls3.jpeg)
+
+3.For cat
+First I try to use the cat command with no arguments.After using ls command,it shows nothing and I need use control+c to quit to contiune to use command.
+
+![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/cat1.jpeg)
+
+Second I try to use the cat command with a path to a directory as an argument.It shows messages is a directory,so we cannt use cat for a directory.
+
+![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/cat2.jpeg)
+
+Third I try to use the cat command with a path to a file as an argument.I find it output the content of this file,I use cat Hello.java,so it display the content of Hello.java.
+
+![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/cat3.jpeg)
+
+
 
 
 
