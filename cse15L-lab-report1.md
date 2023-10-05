@@ -40,8 +40,6 @@ Third I try to use the cat command with a path to a file as an argument.I find i
 ![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/cat3.jpeg)
 
 
-![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/cd1.png)
-
 
 
 
