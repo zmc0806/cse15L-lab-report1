@@ -13,6 +13,20 @@ Third I try to use the command with a path to a file as an argument.I choose to 
 
 2.For ls
 
+First I try to use the command with no arguments.After using ls command,it shows the file name in current directory.Because I am in home,lecture1 is only one under home,so it output lecture1.
+
+![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/ls1.jpeg)
+
+Second I try to use the command with a path to a directory as an argument.it shows the file name in this directory.Here I use ls lecture1,so it shows the file which under lecture1
+
+![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/ls2.jpeg)
+
+Third I try to use the command with a path to a file as an argument.it shows the names of this file,I use Hello.java,so it output Hello.java.
+
+![image](https://github.com/zmc0806/cse15L-lab-report1/blob/main/ls3.jpeg)
+
+
+
 
 
 
