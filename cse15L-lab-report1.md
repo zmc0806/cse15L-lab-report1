@@ -30,11 +30,11 @@ Third I try to use the command with a path to a file as an argument.There is no 
 
 First I try to use the cat command with no arguments.After using `ls` command,it shows nothing,When the cat command does not contain any arguments, it waits for an input from your keyboard.And I need use control+c to quit to contiune to use command.
 
-![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cat1.jpeg)
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cat2new.jpeg)
 
 Second I try to use the cat command with a path to a directory as an argument.The working dictionary is /home/lecture1.There is a error message,it shows messages is a directory,so we cannt use cat for a directory.
 
-![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cat2new.jpeg)
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cat2.jpeg)
 
 Third I try to use the cat command with a path to a file as an argument.The working dictionary is /home/lecture1.There is no error message.I find it output the content of this file,I use cat Hello.java,so it display the content of Hello.java.
 
