@@ -34,7 +34,7 @@ First I try to use the cat command with no arguments.After using `ls` command,it
 
 Second I try to use the cat command with a path to a directory as an argument.The working dictionary is /home/lecture1.There is a error message,it shows messages is a directory,so we cannt use cat for a directory.
 
-![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cat2.jpeg)
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cat2new.jpeg)
 
 Third I try to use the cat command with a path to a file as an argument.The working dictionary is /home/lecture1.There is no error message.I find it output the content of this file,I use cat Hello.java,so it display the content of Hello.java.
 
