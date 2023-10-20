@@ -18,25 +18,25 @@ First I try to use the command with no arguments.The working dictionary is /home
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls1.jpeg)
 
-Second I try to use the command with a path to a directory as an argument.There is no error message.It shows the file name in this directory.Here I use ls lecture1,so it shows the file name which under lecture1.
+Second I try to use the command with a path to a directory as an argument.The working dictionary is /home.There is no error message.It shows the file name in this directory.Here I use ls lecture1,so it shows the file name which under lecture1.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls2.jpeg)
 
-Third I try to use the command with a path to a file as an argument.There is no error message.It shows the names of this file,I use Hello.java,so it output Hello.java.
+Third I try to use the command with a path to a file as an argument.There is no error message.It shows the names of this file,I use Hello.java,so it output Hello.java.Because Hello.java is not a path,when use `ls` to a file,it will out put the name of this file
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls3.jpeg)
 
 3.For cat
 
-First I try to use the cat command with no arguments.After using ls command,it shows nothing and I need use control+c to quit to contiune to use command.
+First I try to use the cat command with no arguments.After using `ls` command,it shows nothing,When the cat command does not contain any arguments, it waits for an input from your keyboard.And I need use control+c to quit to contiune to use command.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cat1.jpeg)
 
-Second I try to use the cat command with a path to a directory as an argument.It shows messages is a directory,so we cannt use cat for a directory.
+Second I try to use the cat command with a path to a directory as an argument.The working dictionary is /home/lecture1.There is a error message,it shows messages is a directory,so we cannt use cat for a directory.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cat2.jpeg)
 
-Third I try to use the cat command with a path to a file as an argument.I find it output the content of this file,I use cat Hello.java,so it display the content of Hello.java.
+Third I try to use the cat command with a path to a file as an argument.The working dictionary is /home/lecture1.There is no error message.I find it output the content of this file,I use cat Hello.java,so it display the content of Hello.java.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cat3.jpeg)
 
