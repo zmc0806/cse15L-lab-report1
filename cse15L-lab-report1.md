@@ -18,11 +18,11 @@ First I try to use the command with no arguments.The working dictionary is /home
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls1.jpeg)
 
-Second I try to use the command with a path to a directory as an argument.It shows the file name in this directory.Here I use ls lecture1,so it shows the file name which under lecture1.
+Second I try to use the command with a path to a directory as an argument.There is no error message.It shows the file name in this directory.Here I use ls lecture1,so it shows the file name which under lecture1.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls2.jpeg)
 
-Third I try to use the command with a path to a file as an argument.It shows the names of this file,I use Hello.java,so it output Hello.java.
+Third I try to use the command with a path to a file as an argument.There is no error message.It shows the names of this file,I use Hello.java,so it output Hello.java.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls3.jpeg)
 
