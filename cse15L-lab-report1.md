@@ -1,10 +1,10 @@
 1.For cd
 
-First I try to use the command with no arguments.There is no change.
+First I try to use the command with no arguments.Now The working dictionary is /home/lecture1,There is no any error message,and then we back to /home,
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cd1.jpeg)
 
-Second I try to use the command with a path to a directory as an argument.The current dircetion is changed,I use cd lecture1,so I get in the directory lecture1.
+Second I try to use the command with a path to a directory as an argument.The current dircetion is changed,I use cd lecture1,so I get in the directory lecture1.There is no any error message.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cd2.jpeg)
 
