@@ -1,6 +1,6 @@
 1.For cd
 
-First I try to use the command with no arguments.Now The working dictionary is /home/lecture1,There is no any error message,and then we back to /home,
+First I try to use the command with no arguments.Now The working dictionary is /home/lecture1,There is no any error message,and then we back to /home.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cd1new.jpeg)
 
@@ -8,23 +8,23 @@ Second I try to use the command with a path to a directory as an argument.The cu
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cd2.jpeg)
 
-Third I try to use the command with a path to a file as an argument.I choose to use cd Hello.java,It shows Hello.java is not a directory,so we cannt cd a file.
+Third I try to use the command with a path to a file as an argument.I choose to use cd Hello.java,There is a error message,because Hello.java is not a directory it's a file,so we cannt use `cd` to a file.Before we run the working dictionary is /home/lecture1,after running is keep same.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/cd3.jpeg)
 
 2.For ls
 
-First I try to use the command with no arguments.After using ls command,it shows the file name in current directory.Because I am in home,lecture1 is only one under home,so it output lecture1.
+First I try to use the command with no arguments.The working dictionary is /home.After using ls command,There is no error message,it will show the file name and folder name in current directory.Because I am in /home,lecture1 is only one under home,so it output lecture1.
 
 ![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls1.jpeg)
 
 Second I try to use the command with a path to a directory as an argument.It shows the file name in this directory.Here I use ls lecture1,so it shows the file name which under lecture1.
 
-![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls1.jpeg)
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls2.jpeg)
 
 Third I try to use the command with a path to a file as an argument.It shows the names of this file,I use Hello.java,so it output Hello.java.
 
-![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls1.jpeg)
+![image](https://raw.githubusercontent.com/zmc0806/cse15L-lab-report1/main/ls3.jpeg)
 
 3.For cat
 
